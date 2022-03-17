@@ -1,0 +1,42 @@
+{
+    "name": "Sila Ramadina",
+    "age": 17,
+    "gender": "Perempuan",
+    "religion": "Islam",
+    "hobi": [
+        "Nonton Drakor",
+        "Menari Daerah",
+        "Memasak"
+    ],
+    "github": {
+        "username": "Sila",
+        "repository": 100
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "Flutter: Pengenalan",
+            "subtitle": "Flutter adalah....."
+        },
+        {
+            "id": 2,
+            "title": "Flutter: Tipe Data",
+            "subtitle": "Tipe data di flutter terdiri dari....."
+        },
+        {
+            "id": 2,
+           "title": "Flutter: Membuat Projek Baru",
+            "subtitle": "Langkah-langkah membuat projek baru di flutter diantaranya......"
+        }
+    ],
+    "contact" : {
+        "1":{ 
+            "name":"Pribadi",
+            "phone": " 6287822461984"
+        },
+         "2":{ 
+            "name":"Perusahaan",
+            "phone": " 0225420220"
+        }
+    }
+}
